@@ -1,0 +1,36 @@
+.container{
+    width: 60%;
+    height: 60%;
+    
+    margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    background-color: darkseagreen;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.header a{
+    margin: 0 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#btnAdd{
+    right: 20px;
+    top: 13px;
+    position: absolute;
+}
+
+.card{
+    margin-bottom: 15px;
+}
